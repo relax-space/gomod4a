@@ -1,3 +1,3 @@
-module github/relax-space/gomod4a
+module github.com/relax-space/gomod4a
 
 go 1.24.4
